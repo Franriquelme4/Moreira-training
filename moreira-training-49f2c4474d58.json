@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "moreira-training",
+  "private_key_id": "49f2c4474d58bc2ef7102d2192b5027d8e194fc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEIX2i7ZQapAZ1\npnGlEAGBTKaSt3u9y5IE3qc2b2LUeE8lzUp5ooJ6lKFeC95k9kK34urzRe9/IuRS\nyTbt/h8zyVmlwj2Xi8B5z4P5KSc1l7EJPHaIJ0i7CGH2JA7d+nFe6uO9Mz2X4UKN\nFjvDaN+ESY6HGcdBdQKZUNrVi2Xr4kydCWFKv3/cKQCACvYIOWqcPkF4YXPR+4tR\nG8UCmHG7C6y8e5NUU1QgVKuy46Z5fI24D/LYWXlHUNffbrIZD9zKkfU2458wNUEC\n9j+ToNkcpZcpffufHydF8+eDRmCrlze8/lVymt5zq2K+jfOEKNiFelL7M8c943t3\nSv+koA+FAgMBAAECggEAVdio4r8lk9GWqDldxddvKTaxNEfOiEEJ3UrNmtR/SCuO\nzSeBwSLCBMB4ry73vW5SvqU6nJfQX/AYSyoaempAIw0vSY/vIJ2Bdm+/vrfmGx2V\n1kqaQTccrQzav/+BaGTd6aNbYm2CuK9Wz2VbbElDiGYf1f+RCRQbupq65jxZNLj4\n1F+n6x0lqyZrNnQZmcKKE+apMPTubH8fRFTeIfj6KxF9BMWNe6av/Y3tVtRq/a1L\neShO8lvYBMyg1JXv9LjRxmkR2Qa9JBrEymH01esflyQZYBbOF1U8Im9r4MWHGIeu\n7xdDW/YtN5uWOGdU0+nefVuxm6CWrSGJmd7jRTuU0wKBgQDrfeIGlEWAysWrUMeG\ni9NzErV9GnmoptlzztwKgW1pIu1NcSPjdmsL8VfmJZg+MfvnnWvlQlEa3YK+h+FD\n8yBasMyHzE5vhwmVmQMhnKP/qJa5hSM2Wgq2OHXaeHg7i35Pe/CZBsM9RxRO7dSi\nblW1XL9EudqIbBCzmDPSh7ziNwKBgQDVNhXEKkq+Z1wy7fhOIeGzR5y9LVw41hQ9\nJdFrT6Z3G9YjOyF6Y+Mr5462fWFPMSqwH0G1xfMSZzYTXqP2w/Yd4eWo8OcVaB8l\nKckkz5dn8kc39HePGiaVzBpgVy5MH9YD0/XdIId7kZ2iRm5wcFfG0jLH5s8jWA/T\naVaJuXLuIwKBgBqlzAXikVrZlzSjl3BqMis7Wr4lWM700naAWfX2X2MeSKwSuXTr\n2YEodkHczzV6gn7bGXJ/5p2bo0fcKGmAAZFBoGNdgyKrrTH4dpo/F2++rA+iOTHV\nTpEAIpXuO+zBBDIKXFd0pHMyr+GemAkpYxl6vUoRneECGYG5H2QbaAxRAoGBAKFg\nYnEroY8kJIDX5Y0dz/smRNhbMOZEAuWVbkDO9KxKgXYBF4HPgO6GQVqW48RQ7oKH\n5fBzd1uCi0d15pysDejoRi/sxrtJJ+m1Cu21wl+G3ajYfHXv0SyoY35v/jbYEeCr\n2fgY2vMIcEuXC5hHL+joyE7NwBJ8YN4faMStfPQJAoGBAOS/nRmv4yqcszOKi39O\nGSY9+Cv3hieCDdP9SyCwq0mSclOlP0zvU2LqgkCwLbeG03A4SeWMxw7UY5rPDuyy\n1geAe8EW0cmaD7JhMpNF8LzWELpBj5HeZ4Iq9cfwfRCTDsOIDIuMAXdGyFSiAoF0\n4mpZ45XPgjLi3MI6hSSiZDW4\n-----END PRIVATE KEY-----\n",
+  "client_email": "moreira@moreira-training.iam.gserviceaccount.com",
+  "client_id": "109221856266903936171",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moreira%40moreira-training.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
